@@ -16,3 +16,12 @@
 [submodule "front-end componentizado/meu projeto/repositorio-lgbt-react"]
 	path = front-end componentizado/meu projeto/repositorio-lgbt-react
 	url = git@github.com:CharlieBellow/repositoriolgbt-react.git
+[submodule "repositoriolgbt-react"]
+	path = repositoriolgbt-react
+	url = git@github.com:CharlieBellow/repositoriolgbt-react.git
+[submodule "repositorio-lgbt-react"]
+	path = repositorio-lgbt-react
+	url = git@github.com:CharlieBellow/repositoriolgbt-react.git
+[submodule "Rocketseat/Pasta sem título/aprendendoReact"]
+	path = Rocketseat/Pasta sem título/aprendendoReact
+	url = git@github.com:CharlieBellow/aprendendoReact.git
