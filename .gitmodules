@@ -13,3 +13,6 @@
 [submodule "front-end componentizado/meu projeto/github-app"]
 	path = front-end componentizado/meu projeto/github-app
 	url = git@github.com:CharlieBellow/github-app.git
+[submodule "front-end componentizado/meu projeto/repositorio-lgbt-react"]
+	path = front-end componentizado/meu projeto/repositorio-lgbt-react
+	url = git@github.com:CharlieBellow/repositoriolgbt-react.git
