@@ -1,0 +1,15 @@
+[submodule "tutorial-react-alura"]
+	path = tutorial-react-alura
+	url = git@github.com:CharlieBellow/tutorial-react-alura.git
+[submodule "Alura/desenvolvimentoComJs"]
+	path = Alura/desenvolvimentoComJs
+	url = git@github.com:CharlieBellow/tutorial-react-alura.git
+[submodule "calcularrevestimento/calcrevestimento"]
+	path = calcularrevestimento/calcrevestimento
+	url = git@github.com:CharlieBellow/calc-revestimento.git
+[submodule "github-app"]
+	path = github-app
+	url = git@github.com:CharlieBellow/github-app.git
+[submodule "front-end componentizado/meu projeto/github-app"]
+	path = front-end componentizado/meu projeto/github-app
+	url = git@github.com:CharlieBellow/github-app.git
